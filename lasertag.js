@@ -56,5 +56,3 @@ for(i=0;i<player.length;i++){
 	console.log(player[i].name + " Hits = " + player[i].hits + " Kills = " + player[i].kills + " Accuracy = " + player[i].accuracy + " Stamina = " + player[i].stamina)
 	console.log("The winner is " + winner)
 }
-
-var txtNode = document.createTextNode("Hello. This is a new node."); 
